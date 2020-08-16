@@ -1,2 +1,1 @@
-# tmux
-tmux setup
+# Dotfiles
