@@ -1,0 +1,4 @@
+/* Hide pomodoro timer */
+#toolbar .button.pomodoro {
+	display: none;
+}
