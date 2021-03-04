@@ -16,3 +16,6 @@ File attachment sidebar: `.pdf, .odt, .odp, .ods, .doc, .docx, .xls, .xlsx, .ppt
 `--u` `↑`
 
 `--h` `↪`
+
+### Custom css
+[zettlr.css](/zettlr.css)
