@@ -1,7 +1,7 @@
 # Zettlr
 
 ### Zettelkasten:
-ID regular expression: `zkn-%Y%M%D%h%m%s`
+ID regular expression: `(zkn-\d{14})`
 
 Pattern used to generate new IDs: `zkn-%Y%M%D%h%m%s`
 
