@@ -2,3 +2,29 @@
 #toolbar .button.pomodoro {
 	display: none;
 }
+
+/* Remove filelist shadow */
+body #file-list {
+	box-shadow: none;
+}
+
+/* Spell check error styling */
+body #editor .CodeMirror .cm-spell-error, 
+body .quicklook .body .CodeMirror .cm-spell-error, 
+body .dialog .CodeMirror .cm-spell-error {
+    text-decoration-color: #ff00003b;
+    text-decoration-style: solid;
+    text-decoration-skip-ink: unset;
+}
+
+body #editor .CodeMirror .cm-spell-error:hover, 
+body .quicklook .body .CodeMirror .cm-spell-error:hover, 
+body .dialog .CodeMirror .cm-spell-error:hover {
+    text-decoration-color: red;
+}
+
+/* Add tab seperators */
+#document-tabs .document .close {
+	border-radius: 0px;
+    border-right: 1px solid #ddd;
+}
