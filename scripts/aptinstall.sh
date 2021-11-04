@@ -18,3 +18,6 @@ install curl
 install htop
 install tmux
 install vim
+
+# ohmyzsh
+sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
