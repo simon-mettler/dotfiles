@@ -1,0 +1,37 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "vim.leader": " ",
+    "vim.insertModeKeyBindings": [
+        {
+        "before": ["k", "j"],
+        "after": ["<Esc>"]
+        }
+    ],
+    "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": ["<leader>", "s"],
+      "commands": [":update"]
+    },
+    ],
+    "vim.normalModeKeyBindings": [
+  {
+    "before" : ["<leader>","w", "h"],
+    "commands" : [
+      "workbench.view.explorer"
+    ]
+  },
+  {
+    "before": ["t", "k"],
+    "commands": [
+      "workbench.action.nextEditor"
+    ]
+  },
+  {
+    "before": ["t", "j"],
+    "commands": [
+      "workbench.action.previousEditor"
+    ]
+  },
+]
+}
