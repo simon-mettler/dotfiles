@@ -161,7 +161,7 @@
     "when": "vim.mode == 'Normal' && editorTextFocus"
   },
   {
-    "key": "space s h",
+    "key": "space s l",
     "command": "workbench.action.moveEditorToRightGroup",
     "when": "vim.mode == 'Normal' && editorTextFocus"
   },
