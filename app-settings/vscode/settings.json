@@ -35,7 +35,7 @@
   "workbench.activityBar.location": "hidden",
 
 
-  "workbench.colorCustomizations": {
+    "workbench.colorCustomizations": {
     "foreground": "#a7a7a7",
     "focusBorder": "#a7a7a78A",
     "widget.shadow": "#000000b3",
@@ -58,7 +58,7 @@
     "list.focusAndSelectionForeground": "#e6e1cf",
     "list.activeSelectionBackground": "#1d242c",
     "list.activeSelectionForeground": "#e6e1cf",
-    "list.inactiveSelectionBackground": "#0f1419",
+    "list.inactiveSelectionBackground": "#222c37",
     "list.inactiveSelectionForeground": "#e6e1cf",
     "list.focusBackground": "#191f26",
     "list.focusForeground": "#e6e1cf",
@@ -125,9 +125,9 @@
     "editorGroupHeader.tabsBackground": "#0f1419",
     "editorGroupHeader.noTabsBackground": "#0f1419",
     "editorGroupHeader.tabsBorder": "#1d242c",
-    "tab.activeBackground": "#14191f",
+    "tab.activeBackground": "#202930",
     "tab.inactiveBackground": "#0f1419",
-    "tab.activeForeground": "#e6e1cf",
+    "tab.activeForeground": "#a7a7a7",
     "tab.inactiveForeground": "#a7a7a7",
     "tab.border": "#1d242c",
     "tab.unfocusedActiveForeground": "#e6e1cfAA",
@@ -194,7 +194,7 @@
     "terminal.ansiBrightMagenta": "#ff77ff",
     "terminal.ansiBrightCyan": "#a6fde1",
     "terminal.ansiBrightWhite": "#ffffff"
-},
+  },
 
   "editor.tokenColorCustomizations": {
     "textMateRules": [
